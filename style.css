@@ -10,7 +10,7 @@ body{
 .titulo1{
     color:#ff702a ;
     padding: 30px;
-    margin-left: 40px;
+    margin-left: 30px;
     font-size: 6em;
     
 }
@@ -71,47 +71,8 @@ body{
 h2{
     color: #FFF;
 }
-
-/* *{
-
-    background: #1e1d2b ;
-    font-family: 'Poppins', sans-serif;
-    color: #fff !important;
-    
-}
-
-body{
-    margin-top: auto;
-    
-    margin-left: auto;
-}
-.bg-light-2,
-.bg-light-2 div,
-.bg-light-2 a{
-    background-color: #1e1d2b !important;
-
-    
-} 
-#navbarNav{
-    text-align: center;
-}
-.bg-light-2 button{
-    background-color: #1e1d2b !important;
-}
-.navbar-brand{
-    color: #ff702a !important;
-
-}
-
-ul{
-    
-    margin-left:  auto;
-}
-.titulo1{
-    color:#ff702a !important;
-    
-}
-.p1{
-
+.hamburguesa{
+    display: flex;
+  
 
 }
