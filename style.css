@@ -1,5 +1,78 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-*{
+body{
+    background-color: #1e1d2b;
+    font-family: 'Poppins', sans-serif !important;
+}
+*{font-family: 'Poppins', sans-serif;}
+.index-link{
+    color: #ff702a;
+}
+.titulo1{
+    color:#ff702a ;
+    padding: 30px;
+    margin-left: 40px;
+    font-size: 6em;
+    
+}
+.p1{
+    color: #FFF;
+    padding: 30px;
+    margin-left: 40px;
+    
+
+
+}
+#input1{
+    background-color: #ff702a;
+}
+
+
+
+.bg-light-2,
+.bg-light-2 div,
+.bg-light-2 a{
+    background-color: #1e1d2b !important;
+
+    
+} 
+.home{
+
+    width: 300px;
+    position: absolute;
+    margin-top:100px;
+    margin-right: 800px;
+
+
+
+
+    
+    
+}
+.Today{
+
+    margin-left: 70px;
+    font-size: 20px;
+    background: #ff702a;
+    color: #FFF;
+    
+}
+.navbar-collapse{
+    background: #1e1d2b;
+}
+.container{
+    color: #FFF;
+}
+
+.titulo2{
+    color: #ff702a;
+    padding: 30px;
+    margin-left: 40px;
+}
+h2{
+    color: #FFF;
+}
+
+/* *{
 
     background: #1e1d2b ;
     font-family: 'Poppins', sans-serif;
@@ -41,11 +114,4 @@ ul{
 .p1{
 
 
-}
-#input1{
-    background-color: #ff702a;
-}
-.home{
-
-  
 }
